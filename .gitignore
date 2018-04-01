@@ -1,0 +1,5 @@
+*.iml
+.spyproject
+.ipynb_checkpoints
+_data
+venv
